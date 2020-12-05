@@ -57,8 +57,8 @@ After installing node, this project will need yarn too, so just run the followin
 
 Open `./env` then edit it with your settings. You will need:
 
-- PORT;
-- API_URL;
+- PORT
+- API_URL
 
 ## Running the project
 
